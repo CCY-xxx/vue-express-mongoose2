@@ -9,6 +9,8 @@
 npm install
 
 # serve with hot reload at localhost:8080
+后端node APP
+创建MongoDB数据库
 npm run dev
 
 # build for production with minification
