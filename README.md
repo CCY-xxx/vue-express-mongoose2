@@ -12,6 +12,9 @@ npm install
 后端node APP
 创建MongoDB数据库
 npm run dev  --项目启动
+浏览器自动访问前端页面 http://localhost:8989
+后端管理页面访问 http://localhost:3005/admin
+后端访问账号为admin  密码为123
 
 # build for production with minification
 npm run build
