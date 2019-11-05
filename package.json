@@ -21,7 +21,7 @@
     "jade": "~1.11.0",
     "md5-node": "^1.0.1",
     "mongodb": "^3.2.6",
-    "mongoose": "^4.10.3",
+    "mongoose": "^5.7.8",
     "morgan": "~1.7.0",
     "multiparty": "^4.2.1",
     "serve-favicon": "~2.3.2",
